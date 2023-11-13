@@ -19,7 +19,7 @@ the bottom.
 
 Using the Suppressenator with the example repository gives the following image: 
 
-![example.png](..%2F..%2FDesktop%2Fexample.png)
+![example.png](example.png)
 
 As you can see, we suppress way too many `UnusedPrivateMember`s.
 
