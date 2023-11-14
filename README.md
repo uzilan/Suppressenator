@@ -24,11 +24,14 @@ Using the Suppressenator with the example repository gives the following image:
 As you can see, we suppress way too many `UnusedPrivateMember`s.
 
 ### But @Suppress annotations are bad! Nobody should use them!
-Oh, really? How about [Kotlin](https://github.com/JetBrains/kotlin)?
-![kotlin.png](kotlin.png)
-
-Or [Arrow](https://github.com/arrow-kt/arrow)?
+Oh, really? How about [Arrow](https://github.com/arrow-kt/arrow)?
 ![arrow.png](arrow.png)
+
+Or [Exposed](https://github.com/JetBrains/Exposed)?
+![exposed.png](exposed.png)
 
 Or [Detekt](https://github.com/detekt/detekt)?
 ![detekt.png](detekt.png)
+
+Or, finally, [Kotlin](https://github.com/JetBrains/kotlin)?
+![kotlin.png](kotlin.png)
